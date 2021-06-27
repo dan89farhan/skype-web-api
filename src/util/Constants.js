@@ -8,8 +8,6 @@ exports.DefaultOptions = {
         defaultViewport: null
     },
     session: false,
-    qrTimeoutMs: 45000,
-    qrRefreshIntervalMs: 20000,
     authTimeoutMs: 45000,
     takeoverOnConflict: false,
     takeoverTimeoutMs: 0,

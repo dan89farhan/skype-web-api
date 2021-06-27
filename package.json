@@ -16,6 +16,7 @@
   "author": "Farhan M.Baig <farhan.pixolo@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
     "puppeteer": "^10.0.0"
   }
 }
