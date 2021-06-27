@@ -1,0 +1,18 @@
+{
+  "name": "skype-web",
+  "version": "1.0.0",
+  "description": "It is build for exposing the api of skype. so that you can send messages and other utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "skype",
+    "skype-api",
+    "web.skype",
+    "web"
+  ],
+  "author": "Farhan M.Baig <farhan.pixolo@gmail.com>",
+  "license": "ISC"
+}
