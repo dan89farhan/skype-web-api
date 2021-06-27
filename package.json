@@ -4,7 +4,7 @@
   "description": "It is build for exposing the api of skype. so that you can send messages and other utilities.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node example.js"
   },
   "keywords": [
     "github",
@@ -14,5 +14,8 @@
     "web"
   ],
   "author": "Farhan M.Baig <farhan.pixolo@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.0.0"
+  }
 }
